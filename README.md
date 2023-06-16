@@ -12,7 +12,7 @@ Through our research, we found an approach to find a solution to the problem. We
 <p>Program flow is as follows :</p>
 <ul>
   <li>We fill in the data according to the form provided.</li>
-  <li>Then click the `Generate Recommender Food and Top Nutrition button`.</li>
+  Then click the `Generate Recommender Food and Top Nutrition button`.
   <li>The food image will be processed and then output in the form of the name of the food contained in the image.</li>
   <li>The output from the gradio API in Hugging Face will be a JSON File that contains the food name and percentage of predicted confidence.</li>
 </ul>
