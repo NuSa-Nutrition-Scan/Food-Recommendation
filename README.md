@@ -12,7 +12,7 @@ Through our research, we found an approach to find a solution to the problem. We
 <p>Program flow is as follows :</p>
 <ul>
   <li>We fill in the data according to the form provided.</li>
-  <li>Then click the "Generate Recommender Food and Top Nutrition button".<li>
+  <li>Then click the "Generate Recommender Food and Top Nutrition button".</li>
   <li>After the form is submitted, the model will issue a recommendation output according to the input that has been filled in previously.</li>
   <li>The model will display the top 15 recommendations and food list according to the times per day.</li>
 </ul>
