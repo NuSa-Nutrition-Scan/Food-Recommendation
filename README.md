@@ -14,11 +14,12 @@ This repository contains code to
 </ul>
 
 <h2>How to Replicate Process</h2>
-<ul>
-  <li>--.</li>
-  <li>--.</li>
-  <li>--.</li>
-</ul>
+<ol>
+  <li>First clone this repository using comment "git clone git@github.com:NuSa-Nutrition-Scan/Food-Recommendation.git"</li>
+  <li>Install requirements needed</li>
+  <li>If you want to do training data, you can access it at Recommendation System.ipynb</li>
+  <li>If you want to do a deployment to run the script, you can use Demo-deploy-with-gradio.py</li>
+</ol>
 
 <h2>Directory Structure</h2>
 <ol>
