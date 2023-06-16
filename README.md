@@ -1,7 +1,8 @@
 <h1>Food Recommendation</h1>
 <p>
-This repository contains code to
+This repository contains code to provide food recommendations to users according to the desired calories and how many times the user wants to eat each day. This project aims to make it easier for users to choose what to eat each day, and of course the recommended meals are in accordance with the desired calorie needs.
 
+Through our research, we found an approach to find a solution to the problem. We used the approach of building with Ranking and Retrieval Model with Query and Candidate tower model.
 </p>
 
 <h2>Overview</h2>
@@ -38,6 +39,10 @@ This repository contains code to
   <li>requirements.txt</li>
   List of python package that we use to training and deploying our food recommendation model
 </ol>
+
+
+
+
 
 
 
