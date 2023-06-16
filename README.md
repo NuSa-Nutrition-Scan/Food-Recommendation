@@ -6,7 +6,9 @@ Through our research, we found an approach to find a solution to the problem. We
 </p>
 
 <h2>Overview</h2>
-
+<p><img align="left" src="https://github.com/NuSa-Nutrition-Scan/Food-Classification/assets/89970736/0f9630f5-2a0e-4a86-841b-afb2b78ba795" alt="overview" /></p>
+<p><img align="left" src="https://github.com/NuSa-Nutrition-Scan/Food-Classification/assets/89970736/3922b3fa-a207-4c01-834b-8f079a69fd3f" alt="overview" /></p>
+<p><img align="left" src="https://github.com/NuSa-Nutrition-Scan/Food-Classification/assets/89970736/121fedfd-8a48-44d5-80d4-855ae92392a2" alt="overview" /></p>
 <p>Program flow is as follows :</p>
 <ul>
   <li>--.</li>
