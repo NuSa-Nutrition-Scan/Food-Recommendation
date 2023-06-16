@@ -11,9 +11,10 @@ Through our research, we found an approach to find a solution to the problem. We
 <p><img align="left" src="https://github.com/NuSa-Nutrition-Scan/Food-Classification/assets/89970736/121fedfd-8a48-44d5-80d4-855ae92392a2" alt="overview" /></p>
 <p>Program flow is as follows :</p>
 <ul>
-  <li>--.</li>
-  <li>--.</li>
-  <li>--.</li>
+  <li>We fill in the data according to the form provided.</li>
+  <li>Then click the submit button.</li>
+  <li>The food image will be processed and then output in the form of the name of the food contained in the image.</li>
+  <li>The output from the gradio API in Hugging Face will be a JSON File that contains the food name and percentage of predicted confidence.</li>
 </ul>
 
 <h2>How to Replicate Process</h2>
